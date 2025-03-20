@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-first-config",
+  "version": "1.0.0",
+  "description": "This is a shareable eslint config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 9"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Brian Sims",
+  "license": "ISC"
+}
